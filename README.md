@@ -35,3 +35,11 @@
 ### 5.  Оценка экономического эффекта
 
 Оценка экономического эффекта приведена в ноутбуке [Economic_effect_estimation.ipynb](https://github.com/alinashchukina/MTS.Teta_car_insurance_project/blob/main/Economic_effect_estimation.ipynb).
+
+**Проект выполнили:**
+
+Константин Майоров
+
+Юлия Фокина
+
+Алина Щукина
